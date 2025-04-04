@@ -2,9 +2,16 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-// Create output directory if it doesn't exist
+// Create or clear output directory
 const outputDir = path.join(__dirname, '../output');
-if (!fs.existsSync(outputDir)) {
+if (fs.existsSync(outputDir)) {
+  console.log('Clearing output directory...');
+  fs.readdirSync(outputDir).forEach(file => {
+    const filePath = path.join(outputDir, file);
+    fs.unlinkSync(filePath);
+  });
+} else {
+  console.log('Creating output directory...');
   fs.mkdirSync(outputDir);
 }
 
