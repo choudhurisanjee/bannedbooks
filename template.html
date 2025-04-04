@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$" />
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
+$endif$
+$if(description-meta)$
+  <meta name="description" content="$description-meta$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <link rel="stylesheet" href="reset.css" />
+  <link rel="stylesheet" href="index.css" />
+$for(css)$
+  <link rel="stylesheet" href="$css$" />
+$endfor$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+$if(math)$
+  $math$
+$endif$
+</head>
+<body>
+$for(include-before)$
+$include-before$
+$endfor$
+<table class="header">
+  <tr>
+    <td colspan="2" class="width-auto">
+      <h1 class="title">$title$</h1>
+      <span class="subtitle">$subtitle$</span>
+    </td>
+    <td class="width-min" style="width: 25%;"><!-- Spacer to maintain width --></td>
+  </tr>
+  <tr>
+    <th class="width-min" style="min-width: 135px;">Last Updated</th>
+    <td class="width-auto"><cite>$author$</cite></td>
+    <td class="width-min" style="width: 25%; background-color: #ff0000; border: 2px solid #000;"><!-- Colored spacer --></td>
+  </tr>
+</table>
+
+<nav class="main-nav">
+  <a href="#about">ABOUT</a> | <a href="#collections">COLLECTIONS</a> | <a href="#contact">CONTACT</a>
+</nav>
+
+$if(abstract)$
+<div class="abstract">
+<div class="abstract-title">$abstract-title$</div>
+$abstract$
+</div>
+$endif$
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+<div class="debug-grid"></div>
+<script src="index.js"></script>
+</body>
+</html>

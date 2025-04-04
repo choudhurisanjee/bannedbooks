@@ -1,0 +1,8 @@
+state,district,collection_name,collection_subtitle,contact_email,last_updated,book_title,book_author,book_isbn
+FL,Flagler County School District,Second Collection,Banned Books Collection,flagler@example.com,2025-03-29,To Kill a Mockingbird,Harper Lee,9780060935467
+FL,Flagler County School District,A Fun Collection,Banned Books Collection,flagler@example.com,2025-03-29,The Bluest Eye,Toni Morrison,9780307278449
+FL,Flagler County School District,A Fun Collection,Banned Books Collection,flagler@example.com,2025-03-29,The Hate U Give,Angie Thomas,9780062498533
+TX,Granbury Independent School District,Books for All,High School Collection,granbury.hs@example.com,2025-03-29,Gender Queer: A Memoir,Maia Kobabe,9781549304002
+TX,Granbury Independent School District,Books for All,High School Collection,granbury.hs@example.com,2025-03-29,All Boys Aren't Blue,George M. Johnson,9780374312718
+TX,Granbury Independent School District,Cool Collection 1,K-8 Collection,granbury.k8@example.com,2025-03-29,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,9780316013697
+TX,Granbury Independent School District,Cool Collection 1,K-8 Collection,granbury.k8@example.com,2025-03-29,Drama,Raina Telgemeier,9780545326995

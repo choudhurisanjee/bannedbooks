@@ -1,0 +1,40 @@
+{
+  "name": "@owickstrom/the-monospace-web",
+  "version": "0.1.5",
+  "description": " A minimalist design exploration",
+  "main": "src/index.css",
+  "scripts": {
+    "watch": "nodemon --watch \"**/*\" --ignore node_modules/ --ignore output/ --ext md,html,css,js,csv --exec \"npm run build && browser-sync reload\"",
+    "serve": "browser-sync start --server output --files \"output/**/*.html\" --no-notify",
+    "dev": "npm-run-all --parallel serve watch",
+    "build": "node scripts/build-all.js",
+    "generate": "node scripts/generate-from-csv.js",
+    "csv-to-site": "node scripts/csv-to-site.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/owickstrom/the-monospace-web.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Oskar Wickström",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owickstrom/the-monospace-web/issues"
+  },
+  "homepage": "https://github.com/owickstrom/the-monospace-web#readme",
+  "files": [
+    "src/index.css",
+    "src/reset.css",
+    "src/index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "csv-parser": "^3.2.0",
+    "nodemon": "^3.1.9",
+    "npm-run-all": "^4.1.5"
+  }
+}
