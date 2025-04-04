@@ -17,52 +17,96 @@ To borrow a book, simply browse the collections, find something that interests y
 
 <div class="districts-list">
 <details>
-<summary>Flagler County School District</summary>
+<summary>Duval County Public Schools, FL</summary>
 <div class="collections">
 <div class="collection">
-<p><strong>Collection:</strong> A Fun Collection</p>
-<p><strong>Contact:</strong> <a href="mailto:flagler@example.com">flagler@example.com</a></p>
-<p><strong>Book List:</strong> <a href="a-fun-collection.html">View Books</a></p>
-</div>
-<div class="collection">
-<p><strong>Collection:</strong> Second Collection</p>
-<p><strong>Contact:</strong> <a href="mailto:flagler@example.com">flagler@example.com</a></p>
-<p><strong>Book List:</strong> <a href="second-collection.html">View Books</a></p>
+<p><strong>Collection:</strong> Challenged Classics</p>
+<p><strong>Contact:</strong> <a href="mailto:duval.hs@example.com">duval.hs@example.com</a></p>
+<p><strong>Book List:</strong> <a href="challenged-classics.html">View Books</a></p>
 </div>
 </div>
 </details>
 <details>
-<summary>Granbury Independent School District</summary>
+<summary>Nampa School District, ID</summary>
 <div class="collections">
 <div class="collection">
-<p><strong>Collection:</strong> Books for All</p>
-<p><strong>Contact:</strong> <a href="mailto:granbury.hs@example.com">granbury.hs@example.com</a></p>
-<p><strong>Book List:</strong> <a href="books-for-all.html">View Books</a></p>
-</div>
-<div class="collection">
-<p><strong>Collection:</strong> Cool Collection 1</p>
-<p><strong>Contact:</strong> <a href="mailto:granbury.k8@example.com">granbury.k8@example.com</a></p>
-<p><strong>Book List:</strong> <a href="cool-collection-1.html">View Books</a></p>
+<p><strong>Collection:</strong> Literary Classics</p>
+<p><strong>Contact:</strong> <a href="mailto:nampa.adv@example.com">nampa.adv@example.com</a></p>
+<p><strong>Book List:</strong> <a href="literary-classics.html">View Books</a></p>
 </div>
 </div>
 </details>
 <details>
-<summary>Keller Independent School District</summary>
+<summary>Dearborn Public Schools, MI</summary>
 <div class="collections">
 <div class="collection">
-<p><strong>Collection:</strong> We Got Another</p>
-<p><strong>Contact:</strong> <a href="mailto:keller.elementary@example.com">keller.elementary@example.com</a></p>
-<p><strong>Book List:</strong> <a href="we-got-another.html">View Books</a></p>
+<p><strong>Collection:</strong> Diverse Literature</p>
+<p><strong>Contact:</strong> <a href="mailto:dearborn.ya@example.com">dearborn.ya@example.com</a></p>
+<p><strong>Book List:</strong> <a href="diverse-literature.html">View Books</a></p>
 </div>
+</div>
+</details>
+<details>
+<summary>Central York School District, PA</summary>
+<div class="collections">
 <div class="collection">
-<p><strong>Collection:</strong> You Get a Book!</p>
-<p><strong>Contact:</strong> <a href="mailto:keller.middle@example.com">keller.middle@example.com</a></p>
-<p><strong>Book List:</strong> <a href="you-get-a-book.html">View Books</a></p>
+<p><strong>Collection:</strong> Diverse Voices</p>
+<p><strong>Contact:</strong> <a href="mailto:centralyork.div@example.com">centralyork.div@example.com</a></p>
+<p><strong>Book List:</strong> <a href="diverse-voices.html">View Books</a></p>
+</div>
+</div>
+</details>
+<details>
+<summary>Beaufort County School District, SC</summary>
+<div class="collections">
+<div class="collection">
+<p><strong>Collection:</strong> Banned But Important</p>
+<p><strong>Contact:</strong> <a href="mailto:beaufort.hs@example.com">beaufort.hs@example.com</a></p>
+<p><strong>Book List:</strong> <a href="banned-but-important.html">View Books</a></p>
+</div>
+</div>
+</details>
+<details>
+<summary>McMinn County School System, TN</summary>
+<div class="collections">
+<div class="collection">
+<p><strong>Collection:</strong> Historical Perspectives</p>
+<p><strong>Contact:</strong> <a href="mailto:mcminn.hist@example.com">mcminn.hist@example.com</a></p>
+<p><strong>Book List:</strong> <a href="historical-perspectives.html">View Books</a></p>
+</div>
+</div>
+</details>
+<details>
+<summary>Keller Independent School District, TX</summary>
+<div class="collections">
+<div class="collection">
+<p><strong>Collection:</strong> Diverse Perspectives</p>
+<p><strong>Contact:</strong> <a href="mailto:keller.ya@example.com">keller.ya@example.com</a></p>
+<p><strong>Book List:</strong> <a href="diverse-perspectives.html">View Books</a></p>
+</div>
+</div>
+</details>
+<details>
+<summary>Alpine School District, UT</summary>
+<div class="collections">
+<div class="collection">
+<p><strong>Collection:</strong> Literary Freedom</p>
+<p><strong>Contact:</strong> <a href="mailto:alpine.ms@example.com">alpine.ms@example.com</a></p>
+<p><strong>Book List:</strong> <a href="literary-freedom.html">View Books</a></p>
+</div>
+</div>
+</details>
+<details>
+<summary>Spotsylvania County Public Schools, VA</summary>
+<div class="collections">
+<div class="collection">
+<p><strong>Collection:</strong> Freedom to Read</p>
+<p><strong>Contact:</strong> <a href="mailto:spotsylvania.lit@example.com">spotsylvania.lit@example.com</a></p>
+<p><strong>Book List:</strong> <a href="freedom-to-read.html">View Books</a></p>
 </div>
 </div>
 </details>
 </div>
-
 ## Contact {#contact}
 
 For general inquiries about The Banned Books Collection, please email info@bannedbookscollection.org

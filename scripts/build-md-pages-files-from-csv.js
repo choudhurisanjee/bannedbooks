@@ -3,8 +3,8 @@ const path = require('path');
 const csv = require('csv-parser');
 
 // Configuration
-const CSV_FILE_PATH = '../banned_books.csv';
-const OUTPUT_DIR = '../src/pages';
+const CSV_FILE_PATH = path.join(__dirname, '../banned_books.csv');
+const OUTPUT_DIR = path.join(__dirname, '../src/pages');
 const COLLECTION_COLUMN = 'collection_name';
 const FILE_EXTENSION = '.md';
 

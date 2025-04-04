@@ -1,8 +1,28 @@
 state,district,collection_name,collection_subtitle,contact_email,last_updated,book_title,book_author,book_isbn
-FL,Flagler County School District,Second Collection,Banned Books Collection,flagler@example.com,2025-03-29,To Kill a Mockingbird,Harper Lee,9780060935467
-FL,Flagler County School District,A Fun Collection,Banned Books Collection,flagler@example.com,2025-03-29,The Bluest Eye,Toni Morrison,9780307278449
-FL,Flagler County School District,A Fun Collection,Banned Books Collection,flagler@example.com,2025-03-29,The Hate U Give,Angie Thomas,9780062498533
-TX,Granbury Independent School District,Books for All,High School Collection,granbury.hs@example.com,2025-03-29,Gender Queer: A Memoir,Maia Kobabe,9781549304002
-TX,Granbury Independent School District,Books for All,High School Collection,granbury.hs@example.com,2025-03-29,All Boys Aren't Blue,George M. Johnson,9780374312718
-TX,Granbury Independent School District,Cool Collection 1,K-8 Collection,granbury.k8@example.com,2025-03-29,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie,9780316013697
-TX,Granbury Independent School District,Cool Collection 1,K-8 Collection,granbury.k8@example.com,2025-03-29,Drama,Raina Telgemeier,9780545326995
+FL,"Duval County Public Schools","Challenged Classics","High School Collection",duval.hs@example.com,2023-09-15,"The Bluest Eye","Toni Morrison",9780307278449
+FL,"Duval County Public Schools","Challenged Classics","High School Collection",duval.hs@example.com,2023-09-15,"Beloved","Toni Morrison",9781400033416
+FL,"Duval County Public Schools","Challenged Classics","High School Collection",duval.hs@example.com,2023-09-15,"Lucky","Alice Sebold",9780684857824
+TX,"Keller Independent School District","Diverse Perspectives","Young Adult Collection",keller.ya@example.com,2023-10-20,"Gender Queer: A Memoir","Maia Kobabe",9781549304002
+TX,"Keller Independent School District","Diverse Perspectives","Young Adult Collection",keller.ya@example.com,2023-10-20,"All Boys Aren't Blue","George M. Johnson",9780374312718
+TX,"Keller Independent School District","Diverse Perspectives","Young Adult Collection",keller.ya@example.com,2023-10-20,"Out of Darkness","Ashley Hope Pérez",9781467742023
+UT,"Alpine School District","Literary Freedom","Middle School Collection",alpine.ms@example.com,2023-08-10,"The Hate U Give","Angie Thomas",9780062498533
+UT,"Alpine School District","Literary Freedom","Middle School Collection",alpine.ms@example.com,2023-08-10,"Thirteen Reasons Why","Jay Asher",9781595141880
+UT,"Alpine School District","Literary Freedom","Middle School Collection",alpine.ms@example.com,2023-08-10,"Beyond Magenta","Susan Kuklin",9780763656119
+SC,"Beaufort County School District","Banned But Important","High School Reading List",beaufort.hs@example.com,2023-11-05,"The Perks of Being a Wallflower","Stephen Chbosky",9781451696196
+SC,"Beaufort County School District","Banned But Important","High School Reading List",beaufort.hs@example.com,2023-11-05,"Stamped: Racism, Antiracism, and You","Jason Reynolds & Ibram X. Kendi",9780316453691
+SC,"Beaufort County School District","Banned But Important","High School Reading List",beaufort.hs@example.com,2023-11-05,"The Absolutely True Diary of a Part-Time Indian","Sherman Alexie",9780316013697
+PA,"Central York School District","Diverse Voices","Cultural Perspectives Collection",centralyork.div@example.com,2023-07-22,"I Am Not Your Perfect Mexican Daughter","Erika L. Sánchez",9781524700515
+PA,"Central York School District","Diverse Voices","Cultural Perspectives Collection",centralyork.div@example.com,2023-07-22,"New Kid","Jerry Craft",9780062691194
+PA,"Central York School District","Diverse Voices","Cultural Perspectives Collection",centralyork.div@example.com,2023-07-22,"This Book Is Anti-Racist","Tiffany Jewell",9780711245211
+TN,"McMinn County School System","Historical Perspectives","Middle School History Collection",mcminn.hist@example.com,2023-06-18,"Maus","Art Spiegelman",9780679406419
+TN,"McMinn County School System","Historical Perspectives","Middle School History Collection",mcminn.hist@example.com,2023-06-18,"To Kill a Mockingbird","Harper Lee",9780060935467
+TN,"McMinn County School System","Historical Perspectives","Middle School History Collection",mcminn.hist@example.com,2023-06-18,"1984","George Orwell",9780451524935
+VA,"Spotsylvania County Public Schools","Freedom to Read","High School Literature",spotsylvania.lit@example.com,2023-12-03,"Lawn Boy","Jonathan Evison",9781616202620
+VA,"Spotsylvania County Public Schools","Freedom to Read","High School Literature",spotsylvania.lit@example.com,2023-12-03,"Call Me Max","Kyle Lukoff",9781478868620
+VA,"Spotsylvania County Public Schools","Freedom to Read","High School Literature",spotsylvania.lit@example.com,2023-12-03,"33 Snowfish","Adam Rapp",9780763622411
+MI,"Dearborn Public Schools","Diverse Literature","Young Adult Collection",dearborn.ya@example.com,2023-09-28,"This Book Is Gay","Juno Dawson",9781492617839
+MI,"Dearborn Public Schools","Diverse Literature","Young Adult Collection",dearborn.ya@example.com,2023-09-28,"Push","Sapphire",9780679766759
+MI,"Dearborn Public Schools","Diverse Literature","Young Adult Collection",dearborn.ya@example.com,2023-09-28,"The Kite Runner","Khaled Hosseini",9781594631931
+ID,"Nampa School District","Literary Classics","Advanced Reading Collection",nampa.adv@example.com,2023-05-15,"The Handmaid's Tale","Margaret Atwood",9780385490818
+ID,"Nampa School District","Literary Classics","Advanced Reading Collection",nampa.adv@example.com,2023-05-15,"Brave New World","Aldous Huxley",9780060850524
+ID,"Nampa School District","Literary Classics","Advanced Reading Collection",nampa.adv@example.com,2023-05-15,"Of Mice and Men","John Steinbeck",9780140177398

@@ -3,7 +3,7 @@ const path = require('path');
 const csv = require('csv-parser');
 
 // Path to your files
-const csvFilePath = '../banned_books.csv';
+const csvFilePath = path.join(__dirname, '../banned_books.csv');
 const homepageFilePath = path.join(__dirname, '../index.md');
 
 async function buildHomepage() {

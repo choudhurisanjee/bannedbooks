@@ -8,8 +8,7 @@
     "serve": "browser-sync start --server output --files \"output/**/*.html\" --no-notify",
     "dev": "npm-run-all --parallel serve watch",
     "build": "node scripts/build-all.js",
-    "generate": "node scripts/generate-from-csv.js",
-    "csv-to-site": "node scripts/csv-to-site.js"
+    "generate": "node scripts/build-md-pages-files-from-csv.js && node scripts/build-home-page-from-csv.js"
   },
   "repository": {
     "type": "git",
