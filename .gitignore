@@ -1,7 +1,17 @@
 # Node modules
 node_modules/
 src/pages/
-/output
+/output/
+output/
+output/**/*
+
+# Data files
+*.csv
+!*.template.csv
+
+# Generated content
+index.md
+!index.template.md
 
 # Logs
 logs
