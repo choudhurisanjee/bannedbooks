@@ -71,7 +71,8 @@ The site is built from a CSV file (`banned_books.csv`) with the following column
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](MIT_LICENSE.md)
+[MONOSPACE_WEB](MONOSPACE_WEB_LICENSE.md)
 
 ## Acknowledgments
 
