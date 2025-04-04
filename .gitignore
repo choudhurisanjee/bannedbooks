@@ -1,6 +1,7 @@
 # Node modules
 node_modules/
 src/pages/
+/output
 
 # Logs
 logs
